@@ -11,7 +11,7 @@ MY APPROACH:
 - import the data, get the best value, plot it to flex extra hard (makes sense too, to look at the variation of responses) 
 
 SIDE NOTE:
-Problem statement is redundant because google forms already gives the relevant dat, (pie chart form)
+Problem statement is redundant because google forms already gives the relevant data (pie chart form)
 """
 
 import pandas as pd 
